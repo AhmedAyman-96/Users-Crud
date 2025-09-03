@@ -13,7 +13,6 @@ A comprehensive Node.js RESTful API for managing users with MongoDB data storage
 - **Docker Support**: Containerized deployment with Docker Compose
 - **Unit Testing**: Comprehensive test coverage with Jest
 - **Error Handling**: Robust error handling and logging
-- **Health Checks**: Built-in health monitoring endpoints
 
 ## Architecture
 
